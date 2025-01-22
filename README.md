@@ -35,5 +35,5 @@
 - FutureTech Project: Training in Web and Cloud Design Skills for the Digital Age, with a focus on 'Web Application Design Skills, 2024
 - LINK Certified Network Cabling for Engineering, 2024
 
- 📫 **How to reach me:** Penpicha.pri@gmail.com
+## 📫 **How to reach me:** Penpicha.pri@gmail.com
 
