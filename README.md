@@ -31,7 +31,7 @@
 - 📈 **Dashboard & Story Marvel Movie Project** 
   - Developed data-driven storytelling and interactive dashboards to analyze and compare global box office revenues of films across different studios.
   - Evaluated revenue versus production budgets to calculate profit or loss, providing insights into the financial performance of each film by studio
-  - More details: [Click to view the project](Business-data.md)
+  - More details: [Click to view the project]((https://github.com/PenpichaPri/Marvel-Movie/blob/main/README.md))
 - 👩🏻‍💻 **All of my projects are available at** [All Project](https://drive.google.com/drive/folders/1-5FTNCxjGfQgde-A9j5ApqqTEVtRJr7I?usp=drive_link)   
 ## ACTIVITIES
 - Self-paced training course on MathWork: Introduction to Statical Methods with MATLAB Onramp, 2023
