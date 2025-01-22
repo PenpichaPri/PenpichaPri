@@ -26,7 +26,7 @@
    - Analyzed and designed an internet network system, developed from the AIS system, known as the SAW system. 
    - Created Use Case Diagram, Activity Diagram, Sequence Diagram, Class Diagram, State chart Diagram, and Data flow Diagram to illustrate system functionality.
    - Designed user interface (UI) and user experience (UX) prototypes using Figma.
-   - More details: [Click to view the project](SA.pdf)
+   - More details: [Click to view the project](https://github.com/PenpichaPri/SAW-WiFi-and-Service)
 
 - 📈 **Dashboard & Story Marvel Movie Project** 
   - Developed data-driven storytelling and interactive dashboards to analyze and compare global box office revenues of films across different studios.
