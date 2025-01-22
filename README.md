@@ -4,10 +4,15 @@
 
 ## Skills
 **Programming Languages:** Python, Java, R, C, C++, HTML, CSS, JavaScript
+
 **Database:** Microsoft SQL Server
+
 **Data Visualization:** Microsoft Power BI, Tableau, Rapidminer
+
 **CRM systems tools:** Salesforce
+
 **Prototyping tools:** Figma
+
 **Version Control:** Git and GitHub
 
 ## My Projects
