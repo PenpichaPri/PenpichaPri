@@ -27,7 +27,7 @@
   - Developed data-driven storytelling and interactive dashboards to analyze and compare global box office revenues of films across different studios.
   - Evaluated revenue versus production budgets to calculate profit or loss, providing insights into the financial performance of each film by studio
   - More details: [Click to view the project](Business-data.md)
-    
+- 👩🏻‍💻 **All of my projects are available at** [All Project](https://drive.google.com/drive/folders/1-5FTNCxjGfQgde-A9j5ApqqTEVtRJr7I?usp=drive_link)   
 ## ACHIEVEMENTS
 - Self-paced training course on MathWork: Introduction to Statical Methods with MATLAB Onramp, 2023
 - MATLAB Onramp certificate, 2023
@@ -35,7 +35,5 @@
 - FutureTech Project: Training in Web and Cloud Design Skills for the Digital Age, with a focus on 'Web Application Design Skills, 2024
 - LINK Certified Network Cabling for Engineering, 2024
 
-- 👩🏻‍💻 **All of my projects are available at** [All Project](https://drive.google.com/drive/folders/1-5FTNCxjGfQgde-A9j5ApqqTEVtRJr7I?usp=drive_link)
-
-- 📫 **How to reach me:** Penpicha.pri@gmail.com
+ 📫 **How to reach me:** Penpicha.pri@gmail.com
 
