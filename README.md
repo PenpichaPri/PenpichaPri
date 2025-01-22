@@ -3,17 +3,17 @@
 **A Computer Science student with an interest in data analysis, possessing basic skills in Tableau, Power BI, SQL, and programming, eager to learn and grow professionally in the field.**
 
 ## Skills
-**Programming Languages:** Python, Java, R, C, C++, HTML, CSS, JavaScript
+- **Programming Languages:** Python, Java, R, C, C++, HTML, CSS, JavaScript
 
-**Database:** Microsoft SQL Server
+- **Database:** Microsoft SQL Server
 
-**Data Visualization:** Microsoft Power BI, Tableau, Rapidminer
+- **Data Visualization:** Microsoft Power BI, Tableau, Rapidminer
 
-**CRM systems tools:** Salesforce
+- **CRM systems tools:** Salesforce
 
-**Prototyping tools:** Figma
+- **Prototyping tools:** Figma
 
-**Version Control:** Git and GitHub
+- **Version Control:** Git and GitHub
 
 ## My Projects
 - 🎥 **Movie Review Sentiment Analysis System Project**
