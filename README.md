@@ -20,7 +20,7 @@
   - Developed a web application for analyzing user reviews about movies using a dataset of over 100,000 reviews (categorized as positive, negative, and neutral).
   - Used Random Forest and Logistic Regression to classify sentiments, splitting the data into a test set (20%) and a training set (80%).
   - Developed a web interface allowing users to input text and select the desired model. The system then predicts whether the sentiment is positive, negative, or neutral and displays the results.
-  - More details: [Click to view the project](Movie-Review-Sentiment-Analysis-System)
+  - More details: [Click to view the project](https://github.com/PenpichaPri/Movie-Review-Sentiment-Analysis-System)
   
 - 🌐 **SAW WiFi and Service Project** 
    - Analyzed and designed an internet network system, developed from the AIS system, known as the SAW system. 
@@ -33,7 +33,7 @@
   - Evaluated revenue versus production budgets to calculate profit or loss, providing insights into the financial performance of each film by studio
   - More details: [Click to view the project](Business-data.md)
 - 👩🏻‍💻 **All of my projects are available at** [All Project](https://drive.google.com/drive/folders/1-5FTNCxjGfQgde-A9j5ApqqTEVtRJr7I?usp=drive_link)   
-## ACHIEVEMENTS
+## ACTIVITIES
 - Self-paced training course on MathWork: Introduction to Statical Methods with MATLAB Onramp, 2023
 - MATLAB Onramp certificate, 2023
 - Certificate of completion for Java programming assessment issued by TestDome, 2023
