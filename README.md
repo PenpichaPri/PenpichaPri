@@ -2,7 +2,7 @@
 
 **A Computer Science student with an interest in data analysis, possessing basic skills in Tableau, Power BI, SQL, and programming, eager to learn and grow professionally in the field.**
 
-##💡 Skills 
+## 💡Skills 
 - **Programming Languages:** Python, Java, R, C, C++, HTML, CSS, JavaScript
 
 - **Database:** Microsoft SQL Server
