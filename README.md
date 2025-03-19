@@ -37,7 +37,7 @@
   - Designed a Dashboard using Tableau to analyze sales and streaming data of 4th-gen K-pop artists.  
   - Visualized data through charts and graphs to compare album sales, Spotify streams, and top-selling artists.  
   - Provided insights into trends and growth in the 4th-gen K-pop industry.
-  - More details: [Click to view the project](https://github.com/PenpichaPri/Marvel-Movie/blob/main/README.md)
+  - More details: [Click to view the project](https://github.com/PenpichaPri/kpop-4th-gen-Sales-Sreaming-Dashboard/blob/main/README.md)
  
 - 👩🏻‍💻 **All of my projects are available at** [All Project](https://drive.google.com/drive/folders/1-5FTNCxjGfQgde-A9j5ApqqTEVtRJr7I?usp=drive_link)   
 ## 🏅 ACTIVITIES 
