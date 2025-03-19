@@ -32,6 +32,13 @@
   - Developed data-driven storytelling and interactive dashboards to analyze and compare global box office revenues of films across different studios.
   - Evaluated revenue versus production budgets to calculate profit or loss, providing insights into the financial performance of each film by studio
   - More details: [Click to view the project](https://github.com/PenpichaPri/Marvel-Movie/blob/main/README.md)
+ 
+- 📈 **Kpop 4th gen:Sales&Streaming Dashboard Project**
+  - Designed a Dashboard using Tableau to analyze sales and streaming data of 4th-gen K-pop artists.  
+  - Visualized data through charts and graphs to compare album sales, Spotify streams, and top-selling artists.  
+  - Provided insights into trends and growth in the 4th-gen K-pop industry.
+  - More details: [Click to view the project](https://github.com/PenpichaPri/Marvel-Movie/blob/main/README.md)
+ 
 - 👩🏻‍💻 **All of my projects are available at** [All Project](https://drive.google.com/drive/folders/1-5FTNCxjGfQgde-A9j5ApqqTEVtRJr7I?usp=drive_link)   
 ## 🏅 ACTIVITIES 
 - Self-paced training course on MathWork: Introduction to Statical Methods with MATLAB Onramp, 2023
